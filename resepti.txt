@@ -1,0 +1,22 @@
+RESEPTI : 
+Laita levy päälle (6 taso) 0
+Avaa jääkaappi 1
+Laita uuni päälle (200°C) 2
+Ota jääkaapista porkkanat pöydälle 3
+Ota kaapista kattila 4
+Ota kaapista uunipelti pöydälle 5
+Lisää vettä kattilaan 6
+Ota porkkanat pois pussista 7
+Tajua, ettet tarvitse uunipeltiä joten laitat sen takaisin 8
+Sammuta uuni. 9
+Laita kattila vesineen hellan levylle. 10
+Sulje jääkaapin ovi. 11
+Pilko porkkanat 12
+Lisää suola kattilaan 13
+Lisää porkkanat kattilaan 14
+Lisää maustekuutio kattilaan 15
+Lisää sokeri kattilaan 16
+Odota 15min 17
+Kaada kattilasta vesi pois 18
+Sammuta hellan levy 19
+Nauti ruuasta 20

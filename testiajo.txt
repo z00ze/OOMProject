@@ -1,0 +1,126 @@
+run:
+Kirjoitustasosi on 0
+Avaa jääkaappi
+Kirjoitustasosi on 0
+Laita levy päälle (6 taso)
+Kirjoitustasosi on 0
+Laita uuni päälle (200°C)
+Kirjoitustasosi on 0
+1
+Kirjoitustasosi on 1
+Ota jääkaapista porkkanat pöydälle
+Kirjoitustasosi on 1
+Ota kaapista kattila
+Kirjoitustasosi on 1
+Ota kaapista uunipelti pöydälle
+Kirjoitustasosi on 1
+2
+Kirjoitustasosi on 2
+Lisää vettä kattilaan
+Kirjoitustasosi on 2
+Ota porkkanat pois pussista
+Kirjoitustasosi on 2
+Tajua, ettet tarvitse uunipeltiä joten laitat sen takaisin
+Kirjoitustasosi on 2
+3
+Kirjoitustasosi on 3
+Sammuta uuni.
+Kirjoitustasosi on 3
+Laita kattila vesineen hellan levylle.
+Kirjoitustasosi on 3
+Sulje jääkaapin ovi.
+Kirjoitustasosi on 3
+4
+Kirjoitustasosi on 4
+Pilko porkkanat
+Kirjoitustasosi on 4
+5
+Kirjoitustasosi on 5
+Lisää porkkanat kattilaan
+Kirjoitustasosi on 5
+Lisää maustekuutio kattilaan
+Kirjoitustasosi on 5
+Lisää suola kattilaan
+Kirjoitustasosi on 5
+Lisää sokeri kattilaan
+Kirjoitustasosi on 5
+6
+Kirjoitustasosi on 6
+Odota 15min
+Kirjoitustasosi on 6
+7
+Kirjoitustasosi on 7
+Kaada kattilasta vesi pois
+Kirjoitustasosi on 7
+Sammuta hellan levy
+Kirjoitustasosi on 7
+8
+Kirjoitustasosi on 8
+Nauti ruuasta
+Kirjoitustasosi on 8
+exit
+Avaa jääkaappi ja taso on : 0
+Laita levy päälle (6 taso) ja taso on : 0
+Laita uuni päälle (200°C) ja taso on : 0
+Ota jääkaapista porkkanat pöydälle ja taso on : 1
+Ota kaapista kattila ja taso on : 1
+Ota kaapista uunipelti pöydälle ja taso on : 1
+Lisää vettä kattilaan ja taso on : 2
+Ota porkkanat pois pussista ja taso on : 2
+Tajua, ettet tarvitse uunipeltiä joten laitat sen takaisin ja taso on : 2
+Sammuta uuni. ja taso on : 3
+Laita kattila vesineen hellan levylle. ja taso on : 3
+Sulje jääkaapin ovi. ja taso on : 3
+Pilko porkkanat ja taso on : 4
+Lisää porkkanat kattilaan ja taso on : 5
+Lisää maustekuutio kattilaan ja taso on : 5
+Lisää suola kattilaan ja taso on : 5
+Lisää sokeri kattilaan ja taso on : 5
+Odota 15min ja taso on : 6
+Kaada kattilasta vesi pois ja taso on : 7
+Sammuta hellan levy ja taso on : 7
+Nauti ruuasta ja taso on : 8
+Avaa jääkaappi ja taso on : 0
+Laita levy päälle (6 taso) ja taso on : 0
+Laita uuni päälle (200°C) ja taso on : 0
+Ota jääkaapista porkkanat pöydälle ja taso on : 1
+Ota kaapista kattila ja taso on : 1
+Ota kaapista uunipelti pöydälle ja taso on : 1
+Lisää vettä kattilaan ja taso on : 2
+Ota porkkanat pois pussista ja taso on : 2
+Tajua, ettet tarvitse uunipeltiä joten laitat sen takaisin ja taso on : 2
+Sammuta uuni. ja taso on : 3
+Laita kattila vesineen hellan levylle. ja taso on : 3
+Sulje jääkaapin ovi. ja taso on : 3
+Pilko porkkanat ja taso on : 4
+Lisää porkkanat kattilaan ja taso on : 5
+Lisää maustekuutio kattilaan ja taso on : 5
+Lisää suola kattilaan ja taso on : 5
+Lisää sokeri kattilaan ja taso on : 5
+Odota 15min ja taso on : 6
+Kaada kattilasta vesi pois ja taso on : 7
+Sammuta hellan levy ja taso on : 7
+Nauti ruuasta ja taso on : 8
+---
+Laita levy päälle (6 taso) ja taso on : 0
+Avaa jääkaappi ja taso on : 0
+Laita uuni päälle (200°C) ja taso on : 0
+Ota jääkaapista porkkanat pöydälle ja taso on : 1
+Ota kaapista kattila ja taso on : 1
+Ota kaapista uunipelti pöydälle ja taso on : 1
+Lisää vettä kattilaan ja taso on : 2
+Ota porkkanat pois pussista ja taso on : 2
+Tajua, ettet tarvitse uunipeltiä joten laitat sen takaisin ja taso on : 2
+Sammuta uuni. ja taso on : 3
+Laita kattila vesineen hellan levylle. ja taso on : 3
+Sulje jääkaapin ovi. ja taso on : 3
+Pilko porkkanat ja taso on : 4
+Lisää suola kattilaan ja taso on : 5
+Lisää porkkanat kattilaan ja taso on : 5
+Lisää maustekuutio kattilaan ja taso on : 5
+Lisää sokeri kattilaan ja taso on : 5
+Odota 15min ja taso on : 6
+Kaada kattilasta vesi pois ja taso on : 7
+Sammuta hellan levy ja taso on : 7
+Nauti ruuasta ja taso on : 8
+BUILD SUCCESSFUL (total time: 3 minutes 43 seconds)
